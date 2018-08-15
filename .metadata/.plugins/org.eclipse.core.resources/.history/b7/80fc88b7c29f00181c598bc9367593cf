@@ -1,0 +1,16 @@
+package CPrincipal;	
+import javax.swing.JFrame;
+public class CPrincipal {
+	public static void main(String args[]) {
+		JFrame janela = new JFrame();
+		janela.setSize(550,350);
+		janela.setTitle("Calculo Lucro Presumido Impostos");
+		janela.setVisible(true);
+		
+		}
+}
+
+
+		
+
+
